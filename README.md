@@ -1,4 +1,4 @@
-# Monitorowanie i Ochrona Infrastruktury Wejściowej
+# Monitorowanie i Ochrona Infrastruktury Wejściowej Imprez Masowych
 
 **Powiazanie z katalogiem tematow:** Temat nr 01 (Inteligentny monitoring infrastruktury IoT) + elementy Tematu nr 03 (Zero Trust) i nr 05 (Mini-SOC).
 **Realizacja:** Zespol 1-osobowy z pelnym podzialem na 4 role projektowe.
