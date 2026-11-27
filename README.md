@@ -1,4 +1,4 @@
-# Smart Stadium Access & Crowd Shield
+# Monitorowanie i Ochrona Infrastruktury Wejściowej
 
 **Powiazanie z katalogiem tematow:** Temat nr 01 (Inteligentny monitoring infrastruktury IoT) + elementy Tematu nr 03 (Zero Trust) i nr 05 (Mini-SOC).
 **Realizacja:** Zespol 1-osobowy z pelnym podzialem na 4 role projektowe.
@@ -9,7 +9,7 @@
 | **Lider / architekt** | Plan prac, backlog, diagramy architektury (DFD), granice zaufania oraz dziennik decyzji (ADR). |
 | **Cloud / DevOps** | Konteneryzacja (Docker Compose), automatyzacja (Ansible + SemaphoreUI), synchronizacja czasu (NTP) i odtwarzalnosc. |
 | **Security Engineer** | Model zagrozen STRIDE, PKI/mTLS, segmentacja sieci, PAM (JumpServer/Bastion), IAM/MFA (Authentik), Suricata, Wazuh i skan OpenVAS. |
-| **AI / Monitoring** | Telemetria bramek stadionowych, detekcja anomalii (Isolation Forest vs prog), metryki jakosci i alerty w SIEM. |
+| **AI / Monitoring** | Telemetria bramek stadionowych, detekcja anomalii (Isolation Forest vs regula progowa), metryki jakosci i alerty w SIEM. |
 
 ## Struktura repozytorium
 * `01-architektura-i-plan/` – Karta projektu, diagramy DFD, dziennik decyzji (ADR)
