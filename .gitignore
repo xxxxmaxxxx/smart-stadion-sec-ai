@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+*.key
+*.pem
+*.crt
+*.csr
+*.srl
+03-bezpieczenstwo-sec/certyfikaty/*
+!03-bezpieczenstwo-sec/certyfikaty/.gitkeep
