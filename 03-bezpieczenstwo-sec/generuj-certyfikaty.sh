@@ -38,7 +38,7 @@ for i in 1 2 3 4 5; do
 done
 
 rm -f broker.csr broker.ext ca.srl
-chmod 600 *.key
+chmod 644 broker.key && chmod 600 ca.key gate-*.key
 chmod 644 *.crt
 
 echo "Wygenerowano klucze i certyfikaty w $DIR"
